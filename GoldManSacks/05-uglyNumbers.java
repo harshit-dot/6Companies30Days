@@ -1,4 +1,5 @@
-class Solution {
+
+ class Solution {
     /* Function to get the nth ugly number*/
     long getNthUglyNo(int n) {
         // code here
